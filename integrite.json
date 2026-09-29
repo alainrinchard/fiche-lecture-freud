@@ -1,0 +1,21 @@
+{
+  "description": "Empreintes des copies à l’identique incluses dans le site. Les trois fichiers fournis et l’EPUB référencé sont préservés.",
+  "files": [
+    {
+      "name": "Cinq lecons Sur la Psychanalyse - Sigmund FREUD.epub",
+      "sha256": "0ece7f3f9acefdb936b51fa0c1a2e586ca9213f798269085ae6b42089ce88d60"
+    },
+    {
+      "name": "couverture_epub_originale.jpg",
+      "sha256": "96bb8802d2b555c4319769696935920842f6ad5417bc0b8338cfb055d0dbbc26"
+    },
+    {
+      "name": "Dossier_complet.md",
+      "sha256": "104bd93bd5a3a0aef10a20408cab77d878b7c894f221acdc80334f38ce16de8c"
+    },
+    {
+      "name": "provenance.json",
+      "sha256": "4690c6baa476881ce86e4816467f2707ae945b2d764389d76bad655e4a2ea7da"
+    }
+  ]
+}

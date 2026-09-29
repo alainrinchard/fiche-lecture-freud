@@ -1,0 +1,18 @@
+FICHE DE LECTURE COMPLÈTE — CINQ LEÇONS SUR LA PSYCHANALYSE
+
+OUVRIR LE SITE
+Double-cliquez sur index.html. Conservez tous les fichiers dans ce dossier. Aucun serveur, aucune installation et aucune connexion ne sont nécessaires pour les contenus du site. Les liens vers les sources documentaires externes nécessitent une connexion.
+
+IMPRIMER UNE FICHE
+Choisissez le parcours puis « Imprimer cette fiche ». La page individuelle contient toutes les rubriques et réponses. Utilisez « Imprimer / enregistrer en PDF », ou Ctrl+P. Choisissez le papier A4 ; désactivez les en-têtes et pieds de page du navigateur si souhaité. Les fonds d’interface sont supprimés sur papier, même en mode sombre.
+
+PROVENANCE
+Ce site est un dérivé du Dossier_complet.md fourni. Les trois fiches scolaires existantes sont conservées intégralement. Les vérifications historiques et bibliographiques relatées restent attribuées au dossier ; elles ne sont pas présentées comme de nouveaux contrôles. Les copies originales figurent dans originaux/. L’EPUB a été copié depuis le chemin indiqué par le dossier après comparaison de son empreinte avec provenance.json. Les fichiers fournis et le document de référence du projet sont inchangés.
+
+IMAGES
+Le portrait fourni est l’image déclarée comme couverture dans l’EPUB. Photographe, date et conditions de réutilisation non renseignés. Le portrait externe cité dans le dossier reste accessible par lien, sans appel distant automatique.
+
+THÈMES ET ACCESSIBILITÉ
+Le thème initial suit la préférence du système, sauf choix mémorisé. La commande Mode sombre / Mode clair change le thème. Tab permet de parcourir les liens et commandes ; Entrée ou Espace ouvre les rubriques. Les questions et réponses se consultent séparément. Les tableaux larges peuvent défiler horizontalement.
+
+Aucune publication en ligne n’a été effectuée. Voir CONTROLES.md pour les contrôles réalisés et leurs limites.

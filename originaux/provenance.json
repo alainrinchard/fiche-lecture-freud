@@ -1,0 +1,16 @@
+{
+  "source": "J:\\01_Ebooks\\Sigmund FREUD\\Cinq lecons Sur la Psychanalyse (409)\\Cinq lecons Sur la Psychanalyse - Sigmund FREUD.epub",
+  "taille_octets": 63230,
+  "sha256_source": "0ece7f3f9acefdb936b51fa0c1a2e586ca9213f798269085ae6b42089ce88d60",
+  "integrite_zip": "controle CRC reussi",
+  "mots_par_fichier_html_indicatifs": {
+    "Ops/003.html": 3655,
+    "Ops/004.html": 2606,
+    "Ops/005.html": 3856,
+    "Ops/006.html": 3145,
+    "Ops/007.html": 2149
+  },
+  "couverture_source": "Ops/images/img1.jpg",
+  "sha256_couverture": "96bb8802d2b555c4319769696935920842f6ad5417bc0b8338cfb055d0dbbc26",
+  "original_preserve": true
+}
